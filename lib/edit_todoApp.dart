@@ -23,7 +23,7 @@ class _AddNewScreenState extends State<EditTodoScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Add New Todo"),
+        title: const Text("Edit Todo"),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16),
